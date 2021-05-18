@@ -1,4 +1,4 @@
-######  E-SHOP ######
+#  E-SHOP #
 
 A simple iOS e-commerce application.
 Tech stack: Firebase, swift, Algolia, Stripe.
